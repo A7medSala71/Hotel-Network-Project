@@ -80,20 +80,25 @@ Each floor is connected to a dedicated router placed in the IT department via **
 - **DNS resolution** functional across network.
 - **OSPF routes** confirmed using `show ip route ospf` and `show ip ospf neighbor`.
 
-(*Screenshots included in the project submission folder.*)
 
 ---
 
-## 📦 Files Included
-- `HotelNetwork.pkt`: Cisco Packet Tracer project file
-- `README.md`: Project documentation
-- `Screenshots/`: Folder with test results and configurations
-- `Report.pdf`: Optional detailed report for submission
+## 📁 Files Included
 
+| File Name                  | Description                                 |
+|---------------------------|---------------------------------------------|
+| `HotelNetwork.pkt`        | Main Cisco Packet Tracer network file       |
+| `additional scenario.pkt` | Relocation scenario implemented             |
+| `Project Description.docx`| Detailed written project requirements       |
+| `Readme.md`               | This project documentation                  |
+| `Report.pdf`              | Full PDF report for submission              |
+| `Hotel-Network.pptx`      | PowerPoint presentation summarizing project |
+
+---
 ---
 
 ## 🙋 Contact
-**Author:** Ghayth  
+**Author:** Ahmed Salah  
 **Course:** CIE 447 – Computer Networks  
 **Instructor:** Eng. Mohamed
 
